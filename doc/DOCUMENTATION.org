@@ -2996,7 +2996,7 @@ These commands automatically switch to =lisp state=.
 | ~SPC k (~   | insert expression before (same level as current one)                |
 | ~SPC k )~   | insert expression after (same level as current one)                 |
 | ~SPC k $~   | go to the end of current sexp                                       |
-| ~SPC k ` k~ | hybrid version of push sexp (can be used in non lisp dialects)      |
+| ~SPC k ` k~ | hybrid version of kill sexp (can be used in non lisp dialects)      |
 | ~SPC k ` p~ | hybrid version of push sexp (can be used in non lisp dialects)      |
 | ~SPC k ` s~ | hybrid version of slurp sexp (can be used in non lisp dialects)     |
 | ~SPC k ` t~ | hybrid version of transpose sexp (can be used in non lisp dialects) |
